@@ -1,5 +1,1 @@
 what is different between my file and your file
-I know, I cann't know 
-it's look like I know what happen
-We must open file from local and before any change we merge with any branch we want
-it doesn't nessary to merge with main every time
